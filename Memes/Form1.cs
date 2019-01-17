@@ -131,8 +131,7 @@ namespace Memes
             if (quicksListBox.SelectedIndex >= 0)
             {
                 quicks.RemoveAt(quicksListBox.SelectedIndex);
-                quicksListBox.DataSource = null;
-                quicksListBox.DataSource = directories;
+                UpdateLists();
             }
         }
         
