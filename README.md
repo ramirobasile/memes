@@ -1,3 +1,3 @@
 # Memes
 
-para organizar pics
+para organizar pixs
