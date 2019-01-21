@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Memes")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Image sorting tool")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Ramiro Basile")]
 [assembly: AssemblyProduct("Memes")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2018")]
+[assembly: AssemblyCopyright("@COPYLEFT ALL WRONGS RESERVED")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
