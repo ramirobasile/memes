@@ -163,7 +163,6 @@ namespace Memes
             Next();
         }
 
-
         // Move
         void MoveFile()
         {
