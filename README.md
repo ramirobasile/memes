@@ -1,6 +1,6 @@
 # Memes
 para organizar pixs
-ultimo .exe en [Release/]: https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe 
+ultimo .exe en [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
 
 shortcuts:
 * ^r o F2 = rename
