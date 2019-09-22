@@ -1,5 +1,5 @@
 # Memes
-para organizar pixs
+para organizar fotos facilmente
 
 ultimo .exe en [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
 
