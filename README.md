@@ -2,7 +2,7 @@
 
 [Read this README in Español.](https://github.com/ramirobasile/Memes/blob/master/README.es.md)
 
-A program to organize pictures more easily.
+A utility for organizing pictures in bulk quickly and efficiently.
 
 Latest .exe at [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
 
