@@ -1,5 +1,5 @@
 # Memes
-Un programa que te permite organizar cantidades grandes de imágenes fácilmente.
+Una utilidad para organizar muchas imágenes rapida y eficientemente.
 
 Último .exe en [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
 
