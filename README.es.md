@@ -1,7 +1,7 @@
 # Memes
 Un programa que te permite organizar cantidades grandes de imágenes fácilmente.
 
-Ultimo .exe en [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
+Último .exe en [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes/bin/Release/Memes.exe)
 
 ## Uso
 
