@@ -10,3 +10,7 @@ shortcuts:
 * left arrow = previous
 * right arrow = next
 * F5 = refresh
+
+## Screenshots
+
+![memes.png](https://i.postimg.cc/Gmksq112/memes.png)
