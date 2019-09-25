@@ -9,19 +9,17 @@ Primero, selecciona todos los directorios que tengan imágenes que querés organ
 
 Podes borrarla o renombrarla o moverla.
 
-Para mover una imagen primero tenés que agregar directorios a la quick move list y luego hacerle doble clic a un directorio para mover la imagen.
-
 Cuando hagas una operación sobre una imagen se te va a automáticamente seleccionar la siguiente imagen.
 
-Podes agilizar tu workflow usando los shortcuts.
+Podes agilizar tu workflow usando los shortcuts y agregando directorios a la Quick move list para poder mover imágenes a esos directorios más rapidamente.
 
-## Shortcuts:
-* ^r o F2 = rename
-* ^m o ^x = move
-* ^d o delete = delete
-* left arrow = previous
-* right arrow = next
-* F5 = refresh
+## Shortcuts
+* CTRL + R ó F2: Renombrar
+* CTRL + M o CTRL + X: Mover
+* CTRL + D o Suprimir: Borrar
+* Izquierda: Anterior
+* Derecha: Proxima
+* F5: Actualizar
 
 ## Screenshots
 
