@@ -1,6 +1,6 @@
 # Memes
 
-[Read this README in Español.](https://github.com/ramirobasile/Memes/README.es.md)
+[Read this README in Español.](https://github.com/ramirobasile/Memes/blob/master/README.es.md)
 
 A program to organize pictures more easily.
 
