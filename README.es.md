@@ -15,8 +15,8 @@ Podes agilizar tu workflow usando los shortcuts y agregando directorios a la Qui
 
 ## Shortcuts
 * CTRL + R ó F2: Renombrar
-* CTRL + M o CTRL + X: Mover
-* CTRL + D o Suprimir: Borrar
+* CTRL + M ó CTRL + X: Mover
+* CTRL + D ó Suprimir: Borrar
 * Izquierda: Anterior
 * Derecha: Proxima
 * F5: Actualizar
