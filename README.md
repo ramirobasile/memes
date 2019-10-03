@@ -11,9 +11,9 @@ Latest .exe at [Release/](https://github.com/ramirobasile/Memes/raw/master/Memes
 WIP.
 
 ## Shortcuts
-* CTRL + R ó F2: Rename
-* CTRL + M o CTRL + X: Move
-* CTRL + D o Delete: Delete
+* CTRL + R or F2: Rename
+* CTRL + M or CTRL + X: Move
+* CTRL + D or Delete: Delete
 * Left: Previous
 * Right: Next
 * F5: Refresh
